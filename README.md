@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/0x346e3730" target="blank"><img src="https://img.shields.io/twitter/follow/0x346e3730?logo=twitter&style=for-the-badge" alt="0x346e3730" /></a> </p>
 
-- 🔭 I’m currently working on [PrestaShop](github.com/PrestaShop)
+- 🔭 I’m currently working on [PrestaShop](https://github.com/PrestaShop)
 
-- 👨‍💻 All of my projects are available at [clauzier.dev](clauzier.dev)
-
-- 📫 How to reach me **antonin@clauzier.dev**
+- 📫 How to reach me : **antonin@clauzier.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

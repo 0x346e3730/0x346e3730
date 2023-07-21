@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0x346e3730" target="blank"><img src="https://img.shields.io/twitter/follow/0x346e3730?logo=twitter&style=for-the-badge" alt="0x346e3730" /></a> </p>
 
-- 🔭 I’m currently working on [PrestaShop](https://github.com/PrestaShop)
+- 🔭 I’m currently working at [AudioWizard](https://audiowizard.fr/)
 
 - 📫 How to reach me : **antonin@clauzier.dev**
 

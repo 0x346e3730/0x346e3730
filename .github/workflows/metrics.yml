@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: 0x346e3730
+          user: "0x346e3730"
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Indian/Reunion

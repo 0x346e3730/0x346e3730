@@ -7,9 +7,9 @@
   "followers": 24,
   "repos": 22,
   "starsEarned": 12,
-  "updated": "2026-10-20T10:51:56.306246154+04:00",
+  "updated": "2026-10-20T10:54:43.573523535+04:00",
   "totals": {
-    "contributions": 4946,
+    "contributions": 4947,
     "activeDays": 268,
     "days": 359,
     "currentStreak": 10,
@@ -1452,41 +1452,41 @@
     },
     {
       "date": "2026-10-20",
-      "count": 31
+      "count": 32
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.44304552921324153
+      "share": 0.4430484139416889
     },
     {
       "name": "TypeScript",
-      "share": 0.17989309421067942
+      "share": 0.17989426551857476
     },
     {
       "name": "Rust",
-      "share": 0.14196953037082496
+      "share": 0.14197045475334533
     },
     {
       "name": "Blade",
-      "share": 0.06438754467524892
+      "share": 0.06438796391112771
     },
     {
       "name": "C",
-      "share": 0.047694182536344214
+      "share": 0.04769449307951883
     },
     {
       "name": "Svelte",
-      "share": 0.04436929086382705
+      "share": 0.04436957975818916
     },
     {
       "name": "CSS",
-      "share": 0.027780359035453332
+      "share": 0.02778053991707092
     },
     {
       "name": "Astro",
-      "share": 0.013340719312438926
+      "share": 0.013340806175639146
     }
   ],
   "stars": [
@@ -1495,7 +1495,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 98669,
+      "stars": 98674,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1603,10 +1603,18 @@
   "pageSpeed": {
     "url": "https://clauzier.dev/",
     "strategy": "mobile",
-    "performance": 99,
+    "performance": 95,
     "accessibility": 95,
     "bestPractices": 100,
     "seo": 100,
     "bytes": 301100
+  },
+  "carbon": {
+    "url": "https://clauzier.dev/",
+    "rating": "A+",
+    "grams": 0.0256242122,
+    "bytes": 301100,
+    "green": true,
+    "hostedBy": "OVHcloud"
   }
 }

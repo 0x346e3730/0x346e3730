@@ -7,7 +7,7 @@
   "followers": 24,
   "repos": 22,
   "starsEarned": 12,
-  "updated": "2026-10-20T10:51:28.006632973+04:00",
+  "updated": "2026-10-20T10:51:56.306246154+04:00",
   "totals": {
     "contributions": 4946,
     "activeDays": 268,
@@ -1495,7 +1495,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 98668,
+      "stars": 98669,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1599,5 +1599,14 @@
       "url": "https://medium.com/darkmirafr/quick-dive-into-sylius-products-3cf55b6b732",
       "date": "2021-07-06T00:00:00Z"
     }
-  ]
+  ],
+  "pageSpeed": {
+    "url": "https://clauzier.dev/",
+    "strategy": "mobile",
+    "performance": 99,
+    "accessibility": 95,
+    "bestPractices": 100,
+    "seo": 100,
+    "bytes": 301100
+  }
 }

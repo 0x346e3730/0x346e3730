@@ -7,9 +7,9 @@
   "followers": 24,
   "repos": 22,
   "starsEarned": 12,
-  "updated": "2026-10-20T10:44:23.500214645+04:00",
+  "updated": "2026-10-20T10:51:28.006632973+04:00",
   "totals": {
-    "contributions": 4943,
+    "contributions": 4946,
     "activeDays": 268,
     "days": 359,
     "currentStreak": 10,
@@ -1452,41 +1452,41 @@
     },
     {
       "date": "2026-10-20",
-      "count": 28
+      "count": 31
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.4431969862188338
+      "share": 0.44304552921324153
     },
     {
       "name": "TypeScript",
-      "share": 0.17995459143292714
+      "share": 0.17989309421067942
     },
     {
       "name": "Rust",
-      "share": 0.14201806326087238
+      "share": 0.14196953037082496
     },
     {
       "name": "Blade",
-      "share": 0.06440955583227666
+      "share": 0.06438754467524892
     },
     {
       "name": "C",
-      "share": 0.0477104869962582
+      "share": 0.047694182536344214
     },
     {
       "name": "Svelte",
-      "share": 0.0443844586953283
+      "share": 0.04436929086382705
     },
     {
       "name": "CSS",
-      "share": 0.027789855869788303
+      "share": 0.027780359035453332
     },
     {
       "name": "Astro",
-      "share": 0.013345279894289503
+      "share": 0.013340719312438926
     }
   ],
   "stars": [
@@ -1495,7 +1495,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 98659,
+      "stars": 98668,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1586,11 +1586,6 @@
       "login": "PrestaShop",
       "url": "https://github.com/PrestaShop",
       "avatar": "https://avatars.githubusercontent.com/u/2815696?v=4"
-    },
-    {
-      "login": "drapo-solutions",
-      "url": "https://github.com/drapo-solutions",
-      "avatar": "https://avatars.githubusercontent.com/u/91429375?v=4"
     }
   ],
   "posts": [

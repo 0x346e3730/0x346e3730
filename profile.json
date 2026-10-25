@@ -7,45 +7,17 @@
   "followers": 23,
   "repos": 22,
   "starsEarned": 12,
-  "updated": "2026-10-25T02:30:43.860390401+04:00",
+  "updated": "2026-10-26T02:30:23.31903762+04:00",
   "totals": {
-    "contributions": 5103,
-    "activeDays": 271,
-    "days": 364,
-    "currentStreak": 0,
+    "contributions": 5070,
+    "activeDays": 267,
+    "days": 358,
+    "currentStreak": 1,
     "longestStreak": 21,
     "bestCount": 134,
     "bestDay": "2026-08-27"
   },
   "calendar": [
-    {
-      "date": "2025-10-27",
-      "count": 7
-    },
-    {
-      "date": "2025-10-28",
-      "count": 10
-    },
-    {
-      "date": "2025-10-29",
-      "count": 10
-    },
-    {
-      "date": "2025-10-30",
-      "count": 6
-    },
-    {
-      "date": "2025-10-31",
-      "count": 4
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0
-    },
-    {
-      "date": "2025-11-02",
-      "count": 0
-    },
     {
       "date": "2025-11-03",
       "count": 10
@@ -1472,41 +1444,45 @@
     },
     {
       "date": "2026-10-25",
+      "count": 4
+    },
+    {
+      "date": "2026-10-26",
       "count": 0
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.4381558769981219
+      "share": 0.43815840098105446
     },
     {
       "name": "TypeScript",
-      "share": 0.18058405884723272
+      "share": 0.1806878926831247
     },
     {
       "name": "Rust",
-      "share": 0.14019753288339143
+      "share": 0.14015842282387045
     },
     {
       "name": "Blade",
-      "share": 0.06358388936210856
+      "share": 0.0635661517482834
     },
     {
       "name": "C",
-      "share": 0.05311145660135195
+      "share": 0.053096640418882804
     },
     {
       "name": "Svelte",
-      "share": 0.043815494061622044
+      "share": 0.0438032711177125
     },
     {
       "name": "CSS",
-      "share": 0.02747119767302855
+      "share": 0.027463534198828913
     },
     {
       "name": "Python",
-      "share": 0.013557998402532476
+      "share": 0.013554216209553736
     }
   ],
   "stars": [
@@ -1515,7 +1491,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 104912,
+      "stars": 105737,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1523,7 +1499,7 @@
       "url": "https://github.com/dscalzi/HeliosLauncher",
       "description": "☀ Custom launcher for modded minecraft written in Electron and Node.js",
       "language": "JavaScript",
-      "stars": 1031,
+      "stars": 1032,
       "starredAt": "2026-01-19T21:01:07Z"
     },
     {
@@ -1576,28 +1552,28 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96385,
+      "stars": 96408,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 44815,
+      "stars": 44850,
       "prs": 1
     },
     {
       "repo": "symfony/symfony",
       "url": "https://github.com/symfony/symfony",
       "avatar": "https://avatars.githubusercontent.com/u/143937?v=4",
-      "stars": 31201,
+      "stars": 31204,
       "prs": 3
     },
     {
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15084,
+      "stars": 15083,
       "prs": 1
     }
   ],
@@ -1627,13 +1603,13 @@
     "accessibility": 100,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 282184
+    "bytes": 282189
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.024014422768,
-    "bytes": 282184,
+    "grams": 0.024014848278,
+    "bytes": 282189,
     "green": true,
     "hostedBy": "OVHcloud"
   }

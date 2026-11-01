@@ -7,45 +7,17 @@
   "followers": 23,
   "repos": 23,
   "starsEarned": 12,
-  "updated": "2026-11-01T02:31:21.10516361+04:00",
+  "updated": "2026-11-02T02:31:22.032499749+04:00",
   "totals": {
-    "contributions": 5377,
-    "activeDays": 273,
-    "days": 364,
-    "currentStreak": 7,
+    "contributions": 5356,
+    "activeDays": 269,
+    "days": 358,
+    "currentStreak": 0,
     "longestStreak": 21,
     "bestCount": 134,
     "bestDay": "2026-08-27"
   },
   "calendar": [
-    {
-      "date": "2025-11-03",
-      "count": 10
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 8
-    },
-    {
-      "date": "2025-11-06",
-      "count": 1
-    },
-    {
-      "date": "2025-11-07",
-      "count": 2
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0
-    },
-    {
-      "date": "2025-11-09",
-      "count": 0
-    },
     {
       "date": "2025-11-10",
       "count": 1
@@ -1473,6 +1445,10 @@
     {
       "date": "2026-11-01",
       "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "count": 0
     }
   ],
   "languages": [
@@ -1515,7 +1491,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 111691,
+      "stars": 112432,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1576,14 +1552,14 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96487,
+      "stars": 96500,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 45127,
+      "stars": 45160,
       "prs": 1
     },
     {
@@ -1597,7 +1573,7 @@
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15077,
+      "stars": 15073,
       "prs": 1
     }
   ],
@@ -1627,13 +1603,13 @@
     "accessibility": 100,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 283297
+    "bytes": 283289
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.024109141294000002,
-    "bytes": 283297,
+    "grams": 0.024108460478000002,
+    "bytes": 283289,
     "green": true,
     "hostedBy": "OVHcloud"
   }

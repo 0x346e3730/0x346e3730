@@ -7,15 +7,15 @@
   "followers": 23,
   "repos": 25,
   "starsEarned": 12,
-  "updated": "2026-11-10T02:31:18.573209936+04:00",
+  "updated": "2026-11-10T22:34:40.401521107+04:00",
   "totals": {
-    "contributions": 5826,
-    "activeDays": 269,
+    "contributions": 6065,
+    "activeDays": 270,
     "days": 359,
-    "currentStreak": 1,
+    "currentStreak": 2,
     "longestStreak": 21,
-    "bestCount": 203,
-    "bestDay": "2026-11-04"
+    "bestCount": 239,
+    "bestDay": "2026-11-10"
   },
   "calendar": [
     {
@@ -1452,41 +1452,41 @@
     },
     {
       "date": "2026-11-10",
-      "count": 0
+      "count": 239
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.4068485741288047
+      "share": 0.4257742842610347
     },
     {
       "name": "TypeScript",
-      "share": 0.18951104438410568
+      "share": 0.18204455435852296
     },
     {
       "name": "Rust",
-      "share": 0.11749137262696874
+      "share": 0.1129296401616933
     },
     {
       "name": "C",
-      "share": 0.11689870135893246
+      "share": 0.11229304372807174
     },
     {
       "name": "Blade",
-      "share": 0.056530513107529
+      "share": 0.05778753321828715
     },
     {
       "name": "Svelte",
-      "share": 0.036650106983949
+      "share": 0.03520614017387983
     },
     {
       "name": "CSS",
-      "share": 0.025144724562800303
+      "share": 0.024438290801006728
     },
     {
       "name": "Python",
-      "share": 0.01352870046620804
+      "share": 0.013441544405123457
     }
   ],
   "stars": [
@@ -1495,7 +1495,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 120353,
+      "stars": 121280,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1556,14 +1556,14 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96727,
+      "stars": 96746,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 45549,
+      "stars": 45585,
       "prs": 1
     },
     {
@@ -1603,17 +1603,17 @@
   "pageSpeed": {
     "url": "https://clauzier.dev/",
     "strategy": "mobile",
-    "performance": 100,
+    "performance": 98,
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238419
+    "bytes": 238413
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020289933738,
-    "bytes": 238419,
+    "grams": 0.020289423126,
+    "bytes": 238413,
     "green": true,
     "hostedBy": "OVHcloud"
   }

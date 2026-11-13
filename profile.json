@@ -5,14 +5,14 @@
   "avatar": "https://avatars.githubusercontent.com/u/28731165?u=4548f658ffb8f3781ffbbb3946cde7f5e36bb910\u0026v=4",
   "since": "2017-05-16T12:24:49Z",
   "followers": 23,
-  "repos": 27,
+  "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-13T02:30:54.058489311+04:00",
+  "updated": "2026-11-13T22:35:49.662743044+04:00",
   "totals": {
-    "contributions": 6751,
-    "activeDays": 272,
+    "contributions": 6868,
+    "activeDays": 273,
     "days": 362,
-    "currentStreak": 4,
+    "currentStreak": 5,
     "longestStreak": 21,
     "bestCount": 605,
     "bestDay": "2026-11-11"
@@ -1464,41 +1464,41 @@
     },
     {
       "date": "2026-11-13",
-      "count": 0
+      "count": 117
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.46817435421875037
+      "share": 0.4715587995414485
     },
     {
       "name": "TypeScript",
-      "share": 0.1619150225253344
+      "share": 0.15875050680043126
     },
     {
       "name": "C",
-      "share": 0.11000682410644518
+      "share": 0.10783079245018141
     },
     {
       "name": "Rust",
-      "share": 0.09614850459878778
+      "share": 0.09424660268125824
     },
     {
       "name": "Blade",
-      "share": 0.058309710336071935
+      "share": 0.0628257887402793
     },
     {
       "name": "Svelte",
-      "share": 0.029974572889519213
+      "share": 0.029381649495717158
     },
     {
       "name": "CSS",
-      "share": 0.022221166704483875
+      "share": 0.022104397533445494
     },
     {
       "name": "Python",
-      "share": 0.015979456582047972
+      "share": 0.01566336888789927
     }
   ],
   "stars": [
@@ -1507,7 +1507,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 123415,
+      "stars": 124263,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1515,7 +1515,7 @@
       "url": "https://github.com/dscalzi/HeliosLauncher",
       "description": "☀ Custom launcher for modded minecraft written in Electron and Node.js",
       "language": "JavaScript",
-      "stars": 1026,
+      "stars": 1027,
       "starredAt": "2026-01-19T21:01:07Z"
     },
     {
@@ -1575,7 +1575,7 @@
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 45675,
+      "stars": 45718,
       "prs": 1
     },
     {
@@ -1589,7 +1589,7 @@
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15067,
+      "stars": 15066,
       "prs": 1
     }
   ],
@@ -1615,17 +1615,17 @@
   "pageSpeed": {
     "url": "https://clauzier.dev/",
     "strategy": "mobile",
-    "performance": 98,
+    "performance": 100,
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238438
+    "bytes": 238447
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020291550676,
-    "bytes": 238438,
+    "grams": 0.020292316594,
+    "bytes": 238447,
     "green": true,
     "hostedBy": "OVHcloud"
   }

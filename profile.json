@@ -7,11 +7,11 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-13T22:35:49.662743044+04:00",
+  "updated": "2026-11-14T02:30:48.57709528+04:00",
   "totals": {
     "contributions": 6868,
     "activeDays": 273,
-    "days": 362,
+    "days": 363,
     "currentStreak": 5,
     "longestStreak": 21,
     "bestCount": 605,
@@ -1465,6 +1465,10 @@
     {
       "date": "2026-11-13",
       "count": 117
+    },
+    {
+      "date": "2026-11-14",
+      "count": 0
     }
   ],
   "languages": [
@@ -1507,7 +1511,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 124263,
+      "stars": 124370,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1568,14 +1572,14 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96678,
+      "stars": 96680,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 45718,
+      "stars": 45723,
       "prs": 1
     },
     {
@@ -1589,7 +1593,7 @@
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15066,
+      "stars": 15067,
       "prs": 1
     }
   ],
@@ -1619,13 +1623,13 @@
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238447
+    "bytes": 238448
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020292316594,
-    "bytes": 238447,
+    "grams": 0.020292401696000002,
+    "bytes": 238448,
     "green": true,
     "hostedBy": "OVHcloud"
   }

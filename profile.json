@@ -7,45 +7,17 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-15T02:30:45.111723625+04:00",
+  "updated": "2026-11-16T02:30:47.161680157+04:00",
   "totals": {
-    "contributions": 6898,
-    "activeDays": 274,
-    "days": 364,
-    "currentStreak": 6,
+    "contributions": 6882,
+    "activeDays": 270,
+    "days": 358,
+    "currentStreak": 0,
     "longestStreak": 21,
     "bestCount": 605,
     "bestDay": "2026-11-11"
   },
   "calendar": [
-    {
-      "date": "2025-11-17",
-      "count": 4
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 1
-    },
-    {
-      "date": "2025-11-20",
-      "count": 6
-    },
-    {
-      "date": "2025-11-21",
-      "count": 5
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0
-    },
-    {
-      "date": "2025-11-23",
-      "count": 0
-    },
     {
       "date": "2025-11-24",
       "count": 8
@@ -1473,6 +1445,10 @@
     {
       "date": "2026-11-15",
       "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "count": 0
     }
   ],
   "languages": [
@@ -1515,7 +1491,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 125007,
+      "stars": 125707,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1523,7 +1499,7 @@
       "url": "https://github.com/dscalzi/HeliosLauncher",
       "description": "☀ Custom launcher for modded minecraft written in Electron and Node.js",
       "language": "JavaScript",
-      "stars": 1027,
+      "stars": 1028,
       "starredAt": "2026-01-19T21:01:07Z"
     },
     {
@@ -1576,14 +1552,14 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96694,
+      "stars": 96702,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 45759,
+      "stars": 45789,
       "prs": 1
     },
     {
@@ -1597,7 +1573,7 @@
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15065,
+      "stars": 15061,
       "prs": 1
     }
   ],
@@ -1623,17 +1599,17 @@
   "pageSpeed": {
     "url": "https://clauzier.dev/",
     "strategy": "mobile",
-    "performance": 98,
+    "performance": 100,
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238453
+    "bytes": 238472
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020292827206,
-    "bytes": 238453,
+    "grams": 0.020294444144,
+    "bytes": 238472,
     "green": true,
     "hostedBy": "OVHcloud"
   }

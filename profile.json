@@ -7,11 +7,11 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-21T02:31:14.898794168+04:00",
+  "updated": "2026-11-22T02:30:56.149100937+04:00",
   "totals": {
-    "contributions": 7040,
+    "contributions": 7110,
     "activeDays": 275,
-    "days": 363,
+    "days": 364,
     "currentStreak": 3,
     "longestStreak": 21,
     "bestCount": 606,
@@ -1468,41 +1468,45 @@
     },
     {
       "date": "2026-11-21",
-      "count": 5
+      "count": 75
+    },
+    {
+      "date": "2026-11-22",
+      "count": 0
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.47596277994500924
+      "share": 0.48726002417144576
     },
     {
       "name": "TypeScript",
-      "share": 0.1564115442371801
+      "share": 0.15253947117975888
     },
     {
       "name": "C",
-      "share": 0.10620583583412711
+      "share": 0.10357663888143524
     },
     {
       "name": "Rust",
-      "share": 0.09283017108032239
+      "share": 0.09053209771170415
     },
     {
       "name": "Blade",
-      "share": 0.05757909861071391
+      "share": 0.05638346454025848
     },
     {
       "name": "Svelte",
-      "share": 0.028963145406163147
+      "share": 0.028246143246684955
     },
     {
       "name": "CSS",
-      "share": 0.021837720304064338
+      "share": 0.021328061834571574
     },
     {
       "name": "JavaScript",
-      "share": 0.01679487365808387
+      "share": 0.01774278285840438
     }
   ],
   "stars": [
@@ -1511,7 +1515,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 130972,
+      "stars": 131927,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1572,14 +1576,14 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96810,
+      "stars": 96816,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 45947,
+      "stars": 45960,
       "prs": 1
     },
     {
@@ -1593,7 +1597,7 @@
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15050,
+      "stars": 15049,
       "prs": 1
     }
   ],

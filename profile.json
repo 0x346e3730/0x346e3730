@@ -7,14 +7,14 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-23T02:30:52.617717658+04:00",
+  "updated": "2026-11-24T02:31:09.295395695+04:00",
   "totals": {
-    "contributions": 7172,
-    "activeDays": 271,
-    "days": 358,
-    "currentStreak": 4,
+    "contributions": 7213,
+    "activeDays": 272,
+    "days": 359,
+    "currentStreak": 5,
     "longestStreak": 21,
-    "bestCount": 606,
+    "bestCount": 607,
     "bestDay": "2026-11-11"
   },
   "calendar": [
@@ -1316,7 +1316,7 @@
     },
     {
       "date": "2026-10-21",
-      "count": 64
+      "count": 65
     },
     {
       "date": "2026-10-22",
@@ -1324,7 +1324,7 @@
     },
     {
       "date": "2026-10-23",
-      "count": 9
+      "count": 10
     },
     {
       "date": "2026-10-24",
@@ -1348,7 +1348,7 @@
     },
     {
       "date": "2026-10-29",
-      "count": 129
+      "count": 130
     },
     {
       "date": "2026-10-30",
@@ -1376,7 +1376,7 @@
     },
     {
       "date": "2026-11-05",
-      "count": 66
+      "count": 67
     },
     {
       "date": "2026-11-06",
@@ -1400,15 +1400,15 @@
     },
     {
       "date": "2026-11-11",
-      "count": 606
+      "count": 607
     },
     {
       "date": "2026-11-12",
-      "count": 72
+      "count": 73
     },
     {
       "date": "2026-11-13",
-      "count": 117
+      "count": 118
     },
     {
       "date": "2026-11-14",
@@ -1420,7 +1420,7 @@
     },
     {
       "date": "2026-11-16",
-      "count": 15
+      "count": 16
     },
     {
       "date": "2026-11-17",
@@ -1436,7 +1436,7 @@
     },
     {
       "date": "2026-11-20",
-      "count": 60
+      "count": 61
     },
     {
       "date": "2026-11-21",
@@ -1448,41 +1448,45 @@
     },
     {
       "date": "2026-11-23",
+      "count": 32
+    },
+    {
+      "date": "2026-11-24",
       "count": 0
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.494428640431002
+      "share": 0.4944636248496285
     },
     {
       "name": "TypeScript",
-      "share": 0.1500899831426629
+      "share": 0.15006526090359656
     },
     {
       "name": "C",
-      "share": 0.10191339896129872
+      "share": 0.10189161108983602
     },
     {
       "name": "Rust",
-      "share": 0.08907832782117726
+      "share": 0.08905928393512831
     },
     {
       "name": "Blade",
-      "share": 0.05578261500392429
+      "share": 0.05577068934490451
     },
     {
       "name": "Svelte",
-      "share": 0.027792564973194545
+      "share": 0.027852358760528464
     },
     {
       "name": "CSS",
-      "share": 0.020985574530045247
+      "share": 0.02098108806403497
     },
     {
       "name": "JavaScript",
-      "share": 0.01775833068437574
+      "share": 0.01775453416468072
     }
   ],
   "stars": [
@@ -1491,7 +1495,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 132918,
+      "stars": 134414,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1552,28 +1556,28 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96828,
+      "stars": 96857,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 45989,
+      "stars": 46018,
       "prs": 1
     },
     {
       "repo": "symfony/symfony",
       "url": "https://github.com/symfony/symfony",
       "avatar": "https://avatars.githubusercontent.com/u/143937?v=4",
-      "stars": 31459,
+      "stars": 31452,
       "prs": 3
     },
     {
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15047,
+      "stars": 15046,
       "prs": 1
     }
   ],
@@ -1603,13 +1607,13 @@
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238621
+    "bytes": 238560
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020307124342,
-    "bytes": 238621,
+    "grams": 0.02030193312,
+    "bytes": 238560,
     "green": true,
     "hostedBy": "OVHcloud"
   }

@@ -7,12 +7,12 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-24T02:31:09.295395695+04:00",
+  "updated": "2026-11-25T02:31:09.331511511+04:00",
   "totals": {
-    "contributions": 7213,
-    "activeDays": 272,
-    "days": 359,
-    "currentStreak": 5,
+    "contributions": 7266,
+    "activeDays": 273,
+    "days": 360,
+    "currentStreak": 6,
     "longestStreak": 21,
     "bestCount": 607,
     "bestDay": "2026-11-11"
@@ -1452,41 +1452,45 @@
     },
     {
       "date": "2026-11-24",
+      "count": 53
+    },
+    {
+      "date": "2026-11-25",
       "count": 0
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.4944636248496285
+      "share": 0.49467232640383646
     },
     {
       "name": "TypeScript",
-      "share": 0.15006526090359656
+      "share": 0.1498483611305809
     },
     {
       "name": "C",
-      "share": 0.10189161108983602
+      "share": 0.10174241740760892
     },
     {
       "name": "Rust",
-      "share": 0.08905928393512831
+      "share": 0.0893625551375636
     },
     {
       "name": "Blade",
-      "share": 0.05577068934490451
+      "share": 0.055718838717705506
     },
     {
       "name": "Svelte",
-      "share": 0.027852358760528464
+      "share": 0.02781841940518172
     },
     {
       "name": "CSS",
-      "share": 0.02098108806403497
+      "share": 0.020950366734261858
     },
     {
       "name": "JavaScript",
-      "share": 0.01775453416468072
+      "share": 0.017728537281326697
     }
   ],
   "stars": [
@@ -1495,7 +1499,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 134414,
+      "stars": 135981,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1556,28 +1560,28 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96857,
+      "stars": 96921,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 46018,
+      "stars": 46059,
       "prs": 1
     },
     {
       "repo": "symfony/symfony",
       "url": "https://github.com/symfony/symfony",
       "avatar": "https://avatars.githubusercontent.com/u/143937?v=4",
-      "stars": 31452,
+      "stars": 31455,
       "prs": 3
     },
     {
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15046,
+      "stars": 15045,
       "prs": 1
     }
   ],
@@ -1603,17 +1607,17 @@
   "pageSpeed": {
     "url": "https://clauzier.dev/",
     "strategy": "mobile",
-    "performance": 100,
+    "performance": 98,
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238560
+    "bytes": 238577
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.02030193312,
-    "bytes": 238560,
+    "grams": 0.020303379854,
+    "bytes": 238577,
     "green": true,
     "hostedBy": "OVHcloud"
   }

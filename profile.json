@@ -7,12 +7,12 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-25T02:31:09.331511511+04:00",
+  "updated": "2026-11-26T02:30:45.893062073+04:00",
   "totals": {
-    "contributions": 7266,
-    "activeDays": 273,
-    "days": 360,
-    "currentStreak": 6,
+    "contributions": 7281,
+    "activeDays": 274,
+    "days": 361,
+    "currentStreak": 7,
     "longestStreak": 21,
     "bestCount": 607,
     "bestDay": "2026-11-11"
@@ -1456,6 +1456,10 @@
     },
     {
       "date": "2026-11-25",
+      "count": 15
+    },
+    {
+      "date": "2026-11-26",
       "count": 0
     }
   ],
@@ -1499,7 +1503,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 135981,
+      "stars": 137875,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1560,28 +1564,28 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96921,
+      "stars": 96972,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 46059,
+      "stars": 46110,
       "prs": 1
     },
     {
       "repo": "symfony/symfony",
       "url": "https://github.com/symfony/symfony",
       "avatar": "https://avatars.githubusercontent.com/u/143937?v=4",
-      "stars": 31455,
+      "stars": 31457,
       "prs": 3
     },
     {
       "repo": "Whisky-App/Whisky",
       "url": "https://github.com/Whisky-App/Whisky",
       "avatar": "https://avatars.githubusercontent.com/u/142730763?v=4",
-      "stars": 15045,
+      "stars": 15043,
       "prs": 1
     }
   ],
@@ -1607,17 +1611,17 @@
   "pageSpeed": {
     "url": "https://clauzier.dev/",
     "strategy": "mobile",
-    "performance": 98,
+    "performance": 100,
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238577
+    "bytes": 238584
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020303379854,
-    "bytes": 238577,
+    "grams": 0.020303975568,
+    "bytes": 238584,
     "green": true,
     "hostedBy": "OVHcloud"
   }

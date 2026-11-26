@@ -7,12 +7,12 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-26T02:30:45.893062073+04:00",
+  "updated": "2026-11-27T02:30:27.618345094+04:00",
   "totals": {
-    "contributions": 7281,
-    "activeDays": 274,
-    "days": 361,
-    "currentStreak": 7,
+    "contributions": 7351,
+    "activeDays": 275,
+    "days": 362,
+    "currentStreak": 8,
     "longestStreak": 21,
     "bestCount": 607,
     "bestDay": "2026-11-11"
@@ -1456,45 +1456,49 @@
     },
     {
       "date": "2026-11-25",
-      "count": 15
+      "count": 14
     },
     {
       "date": "2026-11-26",
+      "count": 71
+    },
+    {
+      "date": "2026-11-27",
       "count": 0
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.49467232640383646
+      "share": 0.5011284724237605
     },
     {
       "name": "TypeScript",
-      "share": 0.1498483611305809
+      "share": 0.1474412314407439
     },
     {
       "name": "C",
-      "share": 0.10174241740760892
+      "share": 0.10010447743867755
     },
     {
       "name": "Rust",
-      "share": 0.0893625551375636
+      "share": 0.08796361863413162
     },
     {
       "name": "Blade",
-      "share": 0.055718838717705506
+      "share": 0.056231189224119585
     },
     {
       "name": "Svelte",
-      "share": 0.02781841940518172
+      "share": 0.02737057373591973
     },
     {
       "name": "CSS",
-      "share": 0.020950366734261858
+      "share": 0.020669081256360546
     },
     {
       "name": "JavaScript",
-      "share": 0.017728537281326697
+      "share": 0.017443127512779138
     }
   ],
   "stars": [
@@ -1503,7 +1507,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 137875,
+      "stars": 140289,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1511,7 +1515,7 @@
       "url": "https://github.com/dscalzi/HeliosLauncher",
       "description": "☀ Custom launcher for modded minecraft written in Electron and Node.js",
       "language": "JavaScript",
-      "stars": 1027,
+      "stars": 1028,
       "starredAt": "2026-01-19T21:01:07Z"
     },
     {
@@ -1535,7 +1539,7 @@
       "url": "https://github.com/realBritakee/hytale-template-plugin",
       "description": "A template project to create a plugin for Hytale",
       "language": "Kotlin",
-      "stars": 256,
+      "stars": 257,
       "starredAt": "2026-01-13T20:09:09Z"
     }
   ],
@@ -1564,21 +1568,21 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "avatar": "https://avatars.githubusercontent.com/u/108928776?v=4",
-      "stars": 96972,
+      "stars": 96996,
       "prs": 2
     },
     {
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 46110,
+      "stars": 46133,
       "prs": 1
     },
     {
       "repo": "symfony/symfony",
       "url": "https://github.com/symfony/symfony",
       "avatar": "https://avatars.githubusercontent.com/u/143937?v=4",
-      "stars": 31457,
+      "stars": 31464,
       "prs": 3
     },
     {
@@ -1615,13 +1619,13 @@
     "accessibility": 96,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238584
+    "bytes": 238596
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020303975568,
-    "bytes": 238584,
+    "grams": 0.020304996792,
+    "bytes": 238596,
     "green": true,
     "hostedBy": "OVHcloud"
   }

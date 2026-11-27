@@ -7,12 +7,12 @@
   "followers": 23,
   "repos": 28,
   "starsEarned": 12,
-  "updated": "2026-11-27T02:30:27.618345094+04:00",
+  "updated": "2026-11-28T02:30:53.965675039+04:00",
   "totals": {
-    "contributions": 7351,
-    "activeDays": 275,
-    "days": 362,
-    "currentStreak": 8,
+    "contributions": 7569,
+    "activeDays": 276,
+    "days": 363,
+    "currentStreak": 9,
     "longestStreak": 21,
     "bestCount": 607,
     "bestDay": "2026-11-11"
@@ -1464,41 +1464,45 @@
     },
     {
       "date": "2026-11-27",
+      "count": 218
+    },
+    {
+      "date": "2026-11-28",
       "count": 0
     }
   ],
   "languages": [
     {
       "name": "PHP",
-      "share": 0.5011284724237605
+      "share": 0.4973938790881903
     },
     {
       "name": "TypeScript",
-      "share": 0.1474412314407439
-    },
-    {
-      "name": "C",
-      "share": 0.10010447743867755
+      "share": 0.13938864597287778
     },
     {
       "name": "Rust",
-      "share": 0.08796361863413162
+      "share": 0.11289879693860008
+    },
+    {
+      "name": "C",
+      "share": 0.0972964092973002
     },
     {
       "name": "Blade",
-      "share": 0.056231189224119585
-    },
-    {
-      "name": "Svelte",
-      "share": 0.02737057373591973
+      "share": 0.05526558957207129
     },
     {
       "name": "CSS",
-      "share": 0.020669081256360546
+      "share": 0.020079318505784646
+    },
+    {
+      "name": "Svelte",
+      "share": 0.018822320762641315
     },
     {
       "name": "JavaScript",
-      "share": 0.017443127512779138
+      "share": 0.017274034421549175
     }
   ],
   "stars": [
@@ -1507,7 +1511,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 140289,
+      "stars": 142389,
       "starredAt": "2026-08-03T10:25:12Z"
     },
     {
@@ -1539,7 +1543,7 @@
       "url": "https://github.com/realBritakee/hytale-template-plugin",
       "description": "A template project to create a plugin for Hytale",
       "language": "Kotlin",
-      "stars": 257,
+      "stars": 255,
       "starredAt": "2026-01-13T20:09:09Z"
     }
   ],
@@ -1575,14 +1579,14 @@
       "repo": "reactive-resume/reactive-resume",
       "url": "https://github.com/reactive-resume/reactive-resume",
       "avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-      "stars": 46133,
+      "stars": 46161,
       "prs": 1
     },
     {
       "repo": "symfony/symfony",
       "url": "https://github.com/symfony/symfony",
       "avatar": "https://avatars.githubusercontent.com/u/143937?v=4",
-      "stars": 31464,
+      "stars": 31472,
       "prs": 3
     },
     {
@@ -1616,16 +1620,16 @@
     "url": "https://clauzier.dev/",
     "strategy": "mobile",
     "performance": 100,
-    "accessibility": 96,
+    "accessibility": 92,
     "bestPractices": 100,
     "seo": 100,
-    "bytes": 238596
+    "bytes": 239569
   },
   "carbon": {
     "url": "https://clauzier.dev/",
     "rating": "A+",
-    "grams": 0.020304996792,
-    "bytes": 238596,
+    "grams": 0.020387801038,
+    "bytes": 239569,
     "green": true,
     "hostedBy": "OVHcloud"
   }
